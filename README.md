@@ -69,34 +69,47 @@ vercel.json              # SPA route rewrite rules for Vercel static hosting
 ## 3. Local Setup, Development & Build Commands
 
 ### Prerequisites
-- Node.js 18+ and npm
+- **Node.js**: v18.0.0 or higher (v20+ recommended)
+- **Package Manager**: npm (bundled with Node.js)
 
 ### Install Dependencies
 ```bash
 npm install
 ```
 
+> **Dependency Compatibility Note**: This project uses Vite 8 with Tailwind CSS v4. Ensure `esbuild` is maintained at `^0.28.0` in `devDependencies` to satisfy Vite 8's peer dependency requirement.
+
 ### Start Local Development Server
 ```bash
 npm run dev
 ```
-The development server runs at `http://localhost:3000`.
+The development server will start at:
+- **Local URL**: `http://localhost:3000/`
+- **Network URL**: `http://<your-lan-ip>:3000/` (for instant testing on connected mobile phones over the same Wi-Fi)
 
 ### Type-Check & Lint
 ```bash
 npm run lint
 ```
+Runs `tsc --noEmit` to validate all TypeScript code, interfaces, and JSX components without generating output files.
 
 ### Build for Production
 ```bash
 npm run build
 ```
-The static production bundle is output to the `dist/` directory.
+Compiles and bundles the application with Vite into the production-ready static assets in the `dist/` directory.
 
 ### Preview Production Build Locally
 ```bash
 npm run preview
 ```
+Serves the generated `dist/` folder locally to verify production behaviour before deploying.
+
+### Regenerate Demo Product Images (Optional)
+```bash
+npm run generate:images
+```
+Executes `scripts/generate-local-images.mjs` to regenerate all demonstration SVG product illustrations across earrings, bangles, necklaces, hair accessories, and categories.
 
 ---
 
