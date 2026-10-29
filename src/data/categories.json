@@ -1,0 +1,67 @@
+[
+  {
+    "id": "earrings",
+    "slug": "earrings",
+    "name": {
+      "en": "Earrings & Jhumkas",
+      "te": "చెవి దిద్దులు & బుట్టలు"
+    },
+    "description": {
+      "en": "Traditional gold-toned jhumkas, pearl drops, oxidised chandbalis, and daily-wear stone studs.",
+      "te": "సంప్రదాయ బుట్టలు, ముత్యాల దిద్దులు, ఆక్సిడైజ్డ్ చాంద్‌బాలీలు మరియు రోజువారీ స్టోన్ స్టడ్స్."
+    },
+    "image": "/images/categories/earrings.svg"
+  },
+  {
+    "id": "bangles",
+    "slug": "bangles",
+    "name": {
+      "en": "Bangles & Kadas",
+      "te": "గాజులు & కడియాలు"
+    },
+    "description": {
+      "en": "Bridal velvet glass bangle sets, stone-studded kadas, silk thread bangles, and daily gold-toned pairs.",
+      "te": "పెళ్లి వెల్వెట్ గాజుల సెట్లు, కుందన్ కడియాలు, సిల్క్ త్రెడ్ గాజులు మరియు రోజువారీ బంగారు రంగు గాజులు."
+    },
+    "image": "/images/categories/bangles.svg"
+  },
+  {
+    "id": "necklaces",
+    "slug": "necklaces",
+    "name": {
+      "en": "Necklaces & Harams",
+      "te": "నెక్లెస్‌లు & హారాలు"
+    },
+    "description": {
+      "en": "Festive Kundan chokers, Lakshmi kasu long harams, and lightweight pearl malas for sarees.",
+      "te": "పండుగ కుందన్ చోకర్లు, లక్ష్మీ కాసుల హారాలు మరియు చీరలకు సరిపోయే ముత్యాల మాలలు."
+    },
+    "image": "/images/categories/necklaces.svg"
+  },
+  {
+    "id": "hair-accessories",
+    "slug": "hair-accessories",
+    "name": {
+      "en": "Hair Accessories",
+      "te": "హెయిర్ యాక్సెసరీస్"
+    },
+    "description": {
+      "en": "Pearl hair clips, soft satin scrunchies, and festive stone-studded juda bun pins.",
+      "te": "ముత్యాల హెయిర్ క్లిప్పులు, సాటిన్ రబ్బర్ బ్యాండ్లు మరియు జడ పిన్నులు."
+    },
+    "image": "/images/categories/hair-accessories.svg"
+  },
+  {
+    "id": "other",
+    "slug": "other",
+    "name": {
+      "en": "Gifts & Fancy Items",
+      "te": "గిఫ్ట్ & ఫ్యాన్సీ వస్తువులు"
+    },
+    "description": {
+      "en": "Auspicious return gift boxes, haldi-kumkum holders, and stone-studded saree brooch pins.",
+      "te": "తాంబూలం గిఫ్ట్ బాక్సులు, పసుపు-కుంకుమ భరిణెలు మరియు చీర పిన్నులు."
+    },
+    "image": "/images/categories/other.svg"
+  }
+]

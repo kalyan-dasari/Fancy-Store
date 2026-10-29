@@ -1,0 +1,345 @@
+[
+  {
+    "id": "earrings-001",
+    "slug": "pearl-drop-jhumka-earrings",
+    "name": {
+      "en": "Pearl Drop Gold-Toned Jhumka Earrings",
+      "te": "ముత్యాల బంగారు రంగు బుట్ట కమ్మలు"
+    },
+    "description": {
+      "en": "Traditional dome-shaped gold-toned jhumkas finished with delicate cluster pearl drops and a ruby-toned floral stud. Lightweight and comfortable for festivals, weddings, and family functions.",
+      "te": "సంప్రదాయ డిజైన్‌లో ముత్యాల కుచ్చులతో రూపొందించిన బంగారు రంగు బుట్ట కమ్మలు. పండుగలు, పెళ్లిళ్లు మరియు శుభకార్యాలకు ధరించడానికి తేలికగా, అందంగా ఉంటాయి."
+    },
+    "categoryId": "earrings",
+    "price": 199,
+    "images": [
+      "/images/earrings/pearl-drop-01.svg",
+      "/images/earrings/pearl-drop-02.svg"
+    ],
+    "thumbnail": "/images/earrings/pearl-drop-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": false
+  },
+  {
+    "id": "earrings-002",
+    "slug": "lakshmi-temple-gold-jhumkas",
+    "name": {
+      "en": "Lakshmi Temple Antique Finish Jhumkas",
+      "te": "లక్ష్మీ టెంపుల్ యాంటిక్ బుట్టలు"
+    },
+    "description": {
+      "en": "South Indian temple-style jhumkas with antique matte gold polish, green and Kemp stone detailing, and pearl hangings. Pairs well with silk sarees and half-sarees.",
+      "te": "దక్షిణ భారత టెంపుల్ డిజైన్ మాట్ గోల్డ్ బుట్టలు. పట్టు చీరలు మరియు లంగా ఓణీలకు ఎంతో చక్కగా నప్పుతాయి."
+    },
+    "categoryId": "earrings",
+    "price": 280,
+    "images": [
+      "/images/earrings/lakshmi-temple-01.svg",
+      "/images/earrings/lakshmi-temple-02.svg"
+    ],
+    "thumbnail": "/images/earrings/lakshmi-temple-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": true
+  },
+  {
+    "id": "earrings-003",
+    "slug": "oxidised-silver-mirror-chandbalis",
+    "name": {
+      "en": "Oxidised Silver Mirror Chandbali Earrings",
+      "te": "ఆక్సిడైజ్డ్ సిల్వర్ చాంద్‌బాలీ దిద్దులు"
+    },
+    "description": {
+      "en": "Crescent-shaped oxidised silver chandbalis accented with metallic ghungroo beads. Ideal for kurtis, cotton sarees, and college or festive wear.",
+      "te": "కుర్తీలు మరియు కాటన్ చీరలకు సరిపోయే ఆక్సిడైజ్డ్ సిల్వర్ చాంద్‌బాలీ చెవి దిద్దులు. చిరు మువ్వల అంచుతో ఆకర్షణీయంగా ఉంటాయి."
+    },
+    "categoryId": "earrings",
+    "price": 150,
+    "images": [
+      "/images/earrings/oxidised-chandbali-01.svg",
+      "/images/earrings/oxidised-chandbali-02.svg"
+    ],
+    "thumbnail": "/images/earrings/oxidised-chandbali-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": true
+  },
+  {
+    "id": "earrings-004",
+    "slug": "ruby-stone-stud-earrings",
+    "name": {
+      "en": "Ruby Stone & Pearl Floral Stud Earrings",
+      "te": "రూబీ స్టోన్ & ముత్యాల పూల దిద్దులు"
+    },
+    "description": {
+      "en": "Compact round floral ear studs featuring a deep ruby-pink center stone surrounded by a neat ring of white pearls. Comfortable screw-back closure for everyday use.",
+      "te": "మధ్యలో కెంపు రంగు రాయి, చుట్టూ తెల్లటి ముత్యాలతో కూడిన అందమైన పూల దిద్దులు. రోజువారీ వాడకానికి అనువైనవి."
+    },
+    "categoryId": "earrings",
+    "price": 120,
+    "images": [
+      "/images/earrings/ruby-studs-01.svg",
+      "/images/earrings/ruby-studs-02.svg"
+    ],
+    "thumbnail": "/images/earrings/ruby-studs-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": false
+  },
+  {
+    "id": "bangles-001",
+    "slug": "bridal-velvet-glass-bangle-set",
+    "name": {
+      "en": "Bridal Maroon Velvet Glass Bangle Set (24 Pcs)",
+      "te": "మెరూన్ వెల్వెట్ గాజుల సెట్ (24 గాజులు)"
+    },
+    "description": {
+      "en": "Complete two-hand festive set of 24 maroon velvet matte glass bangles paired with shimmering gold-zari and stone divider bangles. Enquire on WhatsApp for sizes 2.4, 2.6, and 2.8.",
+      "te": "మెరూన్ వెల్వెట్ గాజులు మరియు స్టోన్ డిజైన్ గాజులతో కూడిన 24 గాజుల పూర్తి సెట్. 2.4, 2.6, 2.8 సైజుల కోసం వాట్సాప్‌లో సంప్రదించండి."
+    },
+    "categoryId": "bangles",
+    "price": 240,
+    "images": [
+      "/images/bangles/bridal-velvet-01.svg",
+      "/images/bangles/bridal-velvet-02.svg"
+    ],
+    "thumbnail": "/images/bangles/bridal-velvet-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": false
+  },
+  {
+    "id": "bangles-002",
+    "slug": "kundan-pearl-kada-pair",
+    "name": {
+      "en": "Kundan & Pearl Designer Kada Bangles (Pair of 2)",
+      "te": "కుందన్ & ముత్యాల డిజైనర్ కడియాల జత (2 కడియాలు)"
+    },
+    "description": {
+      "en": "Sturdy brass-base kadas embellished with Kundan stones and pearl beading. Can be worn solo or on either side of glass bangle stacks.",
+      "te": "కుందన్ రాళ్లు మరియు ముత్యాల అల్లికతో రూపొందించిన 2 కడియాల జత. విడిగా లేదా మట్టి గాజులకి ఇరువైపులా వేసుకోవచ్చు."
+    },
+    "categoryId": "bangles",
+    "price": 320,
+    "images": [
+      "/images/bangles/kundan-kada-01.svg",
+      "/images/bangles/kundan-kada-02.svg"
+    ],
+    "thumbnail": "/images/bangles/kundan-kada-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": true
+  },
+  {
+    "id": "bangles-003",
+    "slug": "silk-thread-zari-bangles",
+    "name": {
+      "en": "Handwrapped Silk Thread Zari Bangles (Set of 6)",
+      "te": "సిల్క్ త్రెడ్ జరీ గాజుల సెట్ (6 గాజులు)"
+    },
+    "description": {
+      "en": "Rani pink and emerald green silk thread bangles decorated with stone chains. Lightweight, skin-friendly, and great for festive gifting.",
+      "te": "రాణీ పింక్ మరియు పచ్చని సిల్క్ దారంతో చుట్టిన అందమైన స్టోన్ గాజులు. పండుగలకు మరియు బహుమతులకు అనుకూలం."
+    },
+    "categoryId": "bangles",
+    "price": 180,
+    "images": [
+      "/images/bangles/silk-thread-01.svg"
+    ],
+    "thumbnail": "/images/bangles/silk-thread-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": false
+  },
+  {
+    "id": "bangles-004",
+    "slug": "daily-wear-gold-toned-bangles",
+    "name": {
+      "en": "Micro-Gold Plated Daily Wear Bangles (Set of 4)",
+      "te": "రోజువారీ గోల్డ్ ప్లేటెడ్ గాజులు (4 గాజులు)"
+    },
+    "description": {
+      "en": "Classic carved gold-toned bangles with long-lasting micro polish suitable for regular wear.",
+      "te": "రోజువారీ వాడకానికి సరిపోయే మైక్రో గోల్డ్ పాలిష్ చేసిన 4 గాజుల సెట్."
+    },
+    "categoryId": "bangles",
+    "price": 220,
+    "images": [
+      "/images/bangles/daily-gold-01.svg"
+    ],
+    "thumbnail": "/images/bangles/daily-gold-01.svg",
+    "available": false,
+    "featured": false,
+    "newArrival": false
+  },
+  {
+    "id": "necklaces-001",
+    "slug": "kundan-bridal-choker-set",
+    "name": {
+      "en": "Royal Kundan Choker Necklace with Matching Earrings",
+      "te": "కుందన్ చోకర్ నెక్లెస్ మరియు కమ్మల సెట్"
+    },
+    "description": {
+      "en": "Festive Kundan choker necklace with a ruby-colored center motif, pearl drops, adjustable thread dori, and matching ear studs.",
+      "te": "కెంపు రంగు పెండెంట్, ముత్యాల కుచ్చులు మరియు సర్దుబాటు చేసుకునే తాడుతో కూడిన కుందన్ చోకర్ నెక్లెస్ సెట్ (మ్యాచింగ్ కమ్మలతో)."
+    },
+    "categoryId": "necklaces",
+    "price": 450,
+    "images": [
+      "/images/necklaces/kundan-choker-01.svg",
+      "/images/necklaces/kundan-choker-02.svg"
+    ],
+    "thumbnail": "/images/necklaces/kundan-choker-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": true
+  },
+  {
+    "id": "necklaces-002",
+    "slug": "lakshmi-kasu-long-haram",
+    "name": {
+      "en": "Traditional Lakshmi Kasu Long Temple Haram",
+      "te": "సంప్రదాయ లక్ష్మీ కాసుల పొడవు హారం"
+    },
+    "description": {
+      "en": "Classic South Indian coin motif long necklace with an ornate Goddess Lakshmi pendant and antique gold finish.",
+      "te": "అమ్మవారి పెండెంట్ మరియు కాసుల డిజైన్‌తో రూపొందించిన సంప్రదాయ పొడవు హారం."
+    },
+    "categoryId": "necklaces",
+    "price": 520,
+    "images": [
+      "/images/necklaces/lakshmi-haram-01.svg"
+    ],
+    "thumbnail": "/images/necklaces/lakshmi-haram-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": false
+  },
+  {
+    "id": "necklaces-003",
+    "slug": "layered-pearl-mala-necklace",
+    "name": {
+      "en": "Two-Layer Cream Pearl Mala with Stone Side Pendant",
+      "te": "రెండు వరుసల ముత్యాల మాల (సైడ్ పెండెంట్‌తో)"
+    },
+    "description": {
+      "en": "Graceful double-strand cream pearl mala accented with a ruby and emerald stone brooch. Lightweight and elegant for all ages.",
+      "te": "రాళ్ల పెండెంట్‌తో కూడిన రెండు వరుసల ముత్యాల హారం. చీరలపైకి ఎంతో హుందాగా కనిపిస్తుంది."
+    },
+    "categoryId": "necklaces",
+    "price": 290,
+    "images": [
+      "/images/necklaces/pearl-mala-01.svg"
+    ],
+    "thumbnail": "/images/necklaces/pearl-mala-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": true
+  },
+  {
+    "id": "hair-001",
+    "slug": "jasmine-gold-hair-clip-set",
+    "name": {
+      "en": "Gold-Toned Pearl & Stone Hair Barrette Clips (Set of 3)",
+      "te": "ముత్యాల & స్టోన్ హెయిర్ క్లిప్పుల సెట్ (3 క్లిప్పులు)"
+    },
+    "description": {
+      "en": "Set of 3 sturdy gold-toned hair clips decorated with pearls and pink stones. Easy snap grip that holds thick and medium hair securely.",
+      "te": "ముత్యాలు మరియు గులాబీ రాళ్లతో అలంకరించిన 3 హెయిర్ క్లిప్పుల సెట్. జుట్టుకు గట్టిగా పట్టుకుని అందంగా కనిపిస్తాయి."
+    },
+    "categoryId": "hair-accessories",
+    "price": 110,
+    "images": [
+      "/images/hair-accessories/jasmine-clips-01.svg"
+    ],
+    "thumbnail": "/images/hair-accessories/jasmine-clips-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": true
+  },
+  {
+    "id": "hair-002",
+    "slug": "satin-silk-scrunchies-pack",
+    "name": {
+      "en": "Soft Satin Silk Hair Scrunchies (Pack of 5)",
+      "te": "సాఫ్ట్ సాటిన్ సిల్క్ రబ్బర్ బ్యాండ్లు (5 ప్యాక్)"
+    },
+    "description": {
+      "en": "Pack of 5 smooth satin scrunchies in maroon, gold, rose pink, cream, and bottle green. Gentle on hair without pulling or breakage.",
+      "te": "జుట్టు చిక్కుపడకుండా మృదువుగా ఉండే 5 సాటిన్ రబ్బర్ బ్యాండ్ల ప్యాక్ (మెరూన్, గోల్డ్, పింక్, క్రీమ్, గ్రీన్ రంగులలో)."
+    },
+    "categoryId": "hair-accessories",
+    "price": 99,
+    "images": [
+      "/images/hair-accessories/satin-scrunchies-01.svg"
+    ],
+    "thumbnail": "/images/hair-accessories/satin-scrunchies-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": false
+  },
+  {
+    "id": "hair-003",
+    "slug": "bridal-stone-juda-bun-pins",
+    "name": {
+      "en": "Stone-Studded Bridal Juda & Braid Hair Pins (Set of 6)",
+      "te": "పెళ్లి జడ & ముడి స్టోన్ పిన్నులు (6 పిన్నుల సెట్)"
+    },
+    "description": {
+      "en": "Decorative U-pins topped with Kundan flowers and pearl drops for traditional braids and festive buns.",
+      "te": "సంప్రదాయ జడ మరియు కొప్పు అలంకరణ కోసం కుందన్ పూల డిజైన్ పిన్నుల సెట్ (6 పిన్నులు)."
+    },
+    "categoryId": "hair-accessories",
+    "price": 140,
+    "images": [
+      "/images/hair-accessories/bridal-juda-pins-01.svg"
+    ],
+    "thumbnail": "/images/hair-accessories/bridal-juda-pins-01.svg",
+    "available": false,
+    "featured": false,
+    "newArrival": false
+  },
+  {
+    "id": "other-001",
+    "slug": "meenakari-kumkum-gift-box",
+    "name": {
+      "en": "Meenakari Haldi-Kumkum & Tamboolam Gift Box",
+      "te": "మీనాకారీ పసుపు-కుంకుమ గిఫ్ట్ బాక్స్"
+    },
+    "description": {
+      "en": "Decorative gold-and-maroon Meenakari pooja and return gift box with twin inner bowls for haldi and kumkum.",
+      "te": "పండుగలు, వ్రతాలు మరియు తాంబూలం బహుమతులకు ఎంతో అనువైన మీనాకారీ పసుపు-కుంకుమ గిఫ్ట్ బాక్స్."
+    },
+    "categoryId": "other",
+    "price": 160,
+    "images": [
+      "/images/other/meenakari-gift-box-01.svg"
+    ],
+    "thumbnail": "/images/other/meenakari-gift-box-01.svg",
+    "available": true,
+    "featured": true,
+    "newArrival": false
+  },
+  {
+    "id": "other-002",
+    "slug": "crystal-stone-saree-brooch-pins",
+    "name": {
+      "en": "Crystal Stone Gold Saree Pleat & Pallu Pins (2 Pcs)",
+      "te": "క్రిస్టల్ స్టోన్ చీర పిన్నులు (2 పిన్నుల జత)"
+    },
+    "description": {
+      "en": "Snag-free gold-toned saree brooch pins set with white and ruby stones to keep pallu and pleats neatly in place.",
+      "te": "చీర కుచ్చిళ్లు మరియు పల్లూకి పెట్టుకునే అందమైన స్టోన్ చీర పిన్నుల జత. చీర పాడవకుండా సురక్షితంగా ఉంటాయి."
+    },
+    "categoryId": "other",
+    "price": 130,
+    "images": [
+      "/images/other/saree-brooch-pins-01.svg"
+    ],
+    "thumbnail": "/images/other/saree-brooch-pins-01.svg",
+    "available": true,
+    "featured": false,
+    "newArrival": true
+  }
+]

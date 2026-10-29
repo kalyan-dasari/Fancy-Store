@@ -1,0 +1,6 @@
+{
+  "name": "MAHA Fancy Store",
+  "description": "Browse earrings, bangles, necklaces, hair accessories, and gifts from MAHA Fancy Store in English and Telugu. Enquire directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

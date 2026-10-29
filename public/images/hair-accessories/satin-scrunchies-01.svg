@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Soft Mulberry Satin Hair Scrunchies (Pack of 5)">
+  <defs>
+    <radialGradient id="studioBg" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#FDF7FA" />
+      <stop offset="100%" stop-color="#F1E0E8" />
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7E09E" />
+      <stop offset="45%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#9A711C" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8E0B52" />
+      <stop offset="100%" stop-color="#4A0728" />
+    </linearGradient>
+    <radialGradient id="pearlGrad" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="65%" stop-color="#F5EFE6" />
+      <stop offset="100%" stop-color="#D7C8B6" />
+    </radialGradient>
+    <filter id="softShadow" x="-15%" y="-15%" width="130%" height="135%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#2D151E" flood-opacity="0.16" />
+    </filter>
+    <filter id="gemGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.18" />
+    </filter>
+  </defs>
+
+  <!-- Studio Backdrop -->
+  <rect width="800" height="800" fill="url(#studioBg)" />
+
+  <!-- Subtle Arch Pedestal Frame -->
+  <path d="M 140 720 L 140 310 A 260 260 0 0 1 660 310 L 660 720 Z" fill="#FFFFFF" fill-opacity="0.52" stroke="url(#goldGrad)" stroke-width="2" stroke-opacity="0.45" />
+  <ellipse cx="400" cy="650" rx="220" ry="34" fill="#2D151E" fill-opacity="0.06" />
+
+  <!-- Corner Ornamental Filigree -->
+  <g stroke="url(#goldGrad)" stroke-width="1.5" fill="none" opacity="0.45">
+    <path d="M 44 96 L 44 44 L 96 44" />
+    <path d="M 756 96 L 756 44 L 704 44" />
+    <path d="M 44 704 L 44 756 L 96 756" />
+    <path d="M 756 704 L 756 756 L 704 756" />
+  </g>
+
+  <!-- Main Product Artwork -->
+  <g filter="url(#softShadow)">
+    
+  <g transform="translate(400, 365)">
+    
+      <!-- Silk Scrunchies Trio -->
+      <g transform="translate(-85, -35)">
+        <circle cx="0" cy="0" r="95" fill="#8E0B52" />
+        <circle cx="0" cy="0" r="36" fill="#FAF7F2" />
+        <path d="M -70 -20 Q -40 -60 0 -75 M 30 -65 Q 70 -30 75 15 M -65 40 Q -20 80 35 65" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.35" fill="none" stroke-linecap="round" />
+      </g>
+      <g transform="translate(80, 45)">
+        <circle cx="0" cy="0" r="95" fill="#D49B35" />
+        <circle cx="0" cy="0" r="36" fill="#FAF7F2" />
+        <path d="M -70 -20 Q -40 -60 0 -75 M 30 -65 Q 70 -30 75 15" stroke="#FFFFFF" stroke-width="4" stroke-opacity="0.4" fill="none" stroke-linecap="round" />
+      </g>
+    
+  </g>
+
+  </g>
+
+  <!-- Bottom Subtle Studio Plinth Label -->
+  <g transform="translate(400, 738)" text-anchor="middle">
+    <text y="0" font-family="Georgia, serif" font-size="19" fill="#6E525B" letter-spacing="2.5">GENTLE ON HAIR · FESTIVE SHADES</text>
+  </g>
+  <g transform="translate(650, 76)">
+          <rect x="-95" y="-22" width="190" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.88" stroke="url(#goldGrad)" stroke-width="1.5" />
+          <text x="0" y="3" text-anchor="middle" font-family="sans-serif" font-weight="600" font-size="14" fill="#7A0B43" letter-spacing="1">PACK OF 5</text>
+        </g>
+</svg>

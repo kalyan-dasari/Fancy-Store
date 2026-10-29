@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-sans: 'Plus Jakarta Sans', 'Noto Sans Telugu', system-ui, -apple-system, sans-serif;
+    --font-display: 'Cormorant Garamond', 'Noto Sans Telugu', Georgia, serif;
+  }
+
+  html {
+    font-family: var(--font-sans);
+    background-color: #FAF7F2;
+    color: #26181D;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+
+  body {
+    min-width: 320px;
+    overflow-x: hidden;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Hide scrollbar for horizontal category strip while keeping touch scroll functional */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

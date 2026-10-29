@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800" role="img" aria-label="Kundan & Pearl Designer Kada Pair - Side">
+  <defs>
+    <radialGradient id="studioBg" cx="50%" cy="42%" r="65%">
+      <stop offset="0%" stop-color="#FFFBF3" />
+      <stop offset="100%" stop-color="#EFE0C5" />
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7E09E" />
+      <stop offset="45%" stop-color="#D4AF37" />
+      <stop offset="100%" stop-color="#9A711C" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8E0B52" />
+      <stop offset="100%" stop-color="#4A0728" />
+    </linearGradient>
+    <radialGradient id="pearlGrad" cx="35%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="65%" stop-color="#F5EFE6" />
+      <stop offset="100%" stop-color="#D7C8B6" />
+    </radialGradient>
+    <filter id="softShadow" x="-15%" y="-15%" width="130%" height="135%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#2D151E" flood-opacity="0.16" />
+    </filter>
+    <filter id="gemGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.18" />
+    </filter>
+  </defs>
+
+  <!-- Studio Backdrop -->
+  <rect width="800" height="800" fill="url(#studioBg)" />
+
+  <!-- Subtle Arch Pedestal Frame -->
+  <path d="M 140 720 L 140 310 A 260 260 0 0 1 660 310 L 660 720 Z" fill="#FFFFFF" fill-opacity="0.52" stroke="url(#goldGrad)" stroke-width="2" stroke-opacity="0.45" />
+  <ellipse cx="400" cy="650" rx="220" ry="34" fill="#2D151E" fill-opacity="0.06" />
+
+  <!-- Corner Ornamental Filigree -->
+  <g stroke="url(#goldGrad)" stroke-width="1.5" fill="none" opacity="0.45">
+    <path d="M 44 96 L 44 44 L 96 44" />
+    <path d="M 756 96 L 756 44 L 704 44" />
+    <path d="M 44 704 L 44 756 L 96 756" />
+    <path d="M 756 704 L 756 756 L 704 756" />
+  </g>
+
+  <!-- Main Product Artwork -->
+  <g filter="url(#softShadow)">
+    
+  <g transform="translate(400, 370) rotate(8)">
+    <!-- Back Bangle Circle -->
+    <circle cx="-48" cy="-22" r="145" fill="none" stroke="url(#goldGrad)" stroke-width="26" />
+    <circle cx="-48" cy="-22" r="145" fill="none" stroke="#146B48" stroke-width="16" stroke-dasharray="28 14" />
+    <!-- Front Main Bridal Bangle Stack -->
+    <circle cx="48" cy="24" r="148" fill="none" stroke="url(#goldGrad)" stroke-width="34" />
+    <circle cx="48" cy="24" r="148" fill="none" stroke="#8E0B52" stroke-width="22" />
+    <circle cx="48" cy="24" r="148" fill="none" stroke="#FFF6D6" stroke-width="6" stroke-dasharray="4 18" />
+    <!-- Kundan stones around front bangle -->
+    <circle cx="196.0" cy="24.0" r="6.5" fill="url(#pearlGrad)" /><circle cx="184.7" cy="80.6" r="6.5" fill="url(#pearlGrad)" /><circle cx="152.7" cy="128.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="104.6" cy="160.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="48.0" cy="172.0" r="6.5" fill="url(#pearlGrad)" /><circle cx="-8.6" cy="160.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="-56.7" cy="128.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="-88.7" cy="80.6" r="6.5" fill="url(#pearlGrad)" /><circle cx="-100.0" cy="24.0" r="6.5" fill="url(#pearlGrad)" /><circle cx="-88.7" cy="-32.6" r="6.5" fill="url(#pearlGrad)" /><circle cx="-56.7" cy="-80.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="-8.6" cy="-112.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="48.0" cy="-124.0" r="6.5" fill="url(#pearlGrad)" /><circle cx="104.6" cy="-112.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="152.7" cy="-80.7" r="6.5" fill="url(#pearlGrad)" /><circle cx="184.7" cy="-32.6" r="6.5" fill="url(#pearlGrad)" />
+  </g>
+
+  </g>
+
+  <!-- Bottom Subtle Studio Plinth Label -->
+  <g transform="translate(400, 738)" text-anchor="middle">
+    <text y="0" font-family="Georgia, serif" font-size="19" fill="#6E525B" letter-spacing="2.5">SMOOTH INNER POLISH</text>
+  </g>
+  <g transform="translate(650, 76)">
+          <rect x="-95" y="-22" width="190" height="38" rx="19" fill="#FFFFFF" fill-opacity="0.88" stroke="url(#goldGrad)" stroke-width="1.5" />
+          <text x="0" y="3" text-anchor="middle" font-family="sans-serif" font-weight="600" font-size="14" fill="#7A0B43" letter-spacing="1">PAIR OF 2</text>
+        </g>
+</svg>
